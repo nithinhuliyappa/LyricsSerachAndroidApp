@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Midterm App</string>
+    <string name="action_settings">Settings</string>
+    <string name="searchButton">Search</string>
+    <string name="resultsTextView">Results :</string>
+    <string name="ifTextView1" />
+    <string name="ifTextView3" />
+    <string name="ifTextView2" />
+    <string name="ifTextView4" />
+    <string name="m2ItemHeader">Header :</string>
+    <string name="m2ItemDetail1">Item Detail 1:</string>
+    <string name="m2ItemDetail2">Item Detail 2</string>
+    <string name="m2ItemDetail3">Item Detail 3:</string>
+    <string name="m2ItemDetail4">Item Detail4 :</string>
+    <string name="m2ItemDetail5">ItemDetail5 :</string>
+    <string name="m2FinishButton">Finish</string>
+    <string name="limitText">Limit : 5</string>
+    <string name="sortByText">Sort By :</string>
+    <string name="trackRatingRadioButton">Track Rating</string>
+    <string name="artistRatingRadioButton">Artist Rating</string>
+    <string name="searchBarhint" translatable="false">songs</string>
+    <string name="songshint">songs</string>
+</resources>
